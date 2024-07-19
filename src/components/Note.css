@@ -1,0 +1,29 @@
+.note {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .note h3 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .note p {
+    margin: 5px 0;
+  }
+  
+  .note button {
+    background-color: #e74c3c;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .note button:hover {
+    background-color: #c0392b;
+  }
+  
